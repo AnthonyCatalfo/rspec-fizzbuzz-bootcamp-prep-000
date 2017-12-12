@@ -1,4 +1,4 @@
-ddef fizzbuzz(int)
+def fizzbuzz(int)
 
 num=int
 
